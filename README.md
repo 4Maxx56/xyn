@@ -1,6 +1,6 @@
 # 褪色者的自我介绍
 
-<img src>"https://img.3dmgame.com/uploads/images/thumbpicfirst/20210611/1623398095_526209.jpg" width="200" alt=褪色者形象>
+<img src>"https://img.3dmgame.com/uploads/images/thumbpicfirst/20210611/1623398095_526209.jpg" width="200" alt="褪色者形象">
 
 大家好，我是**褪色者**，我的身份是艾*尔登法环的主人公*。以下是我的自我介绍：
 
