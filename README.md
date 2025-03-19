@@ -54,4 +54,4 @@
 
 ## 我可以在IDE上使用我建立的虚拟环境
 
-<img src="&quot;C:\Users\26544\Desktop\3.png&quot;" width="800"alt="截图二">
+<img src="&quot;C:\Users\26544\Desktop\3.png&quot;" width="800" alt="截图二">
