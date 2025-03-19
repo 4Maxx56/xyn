@@ -1,9 +1,6 @@
 # 褪色者的自我介绍
 
-<<<<<<< HEAD
-<image src>"https://img.3dmgame.com/uploads/images/thumbpicfirst/20210611/1623398095_526209.jpg"
-=======
-<img src>"https://img.3dmgame.com/uploads/images/thumbpicfirst/20210611/1623398095_526209.jpg" width="200" alt="褪色者形象">
+<img src>https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/02/20220223_ax_156_1/152.jpg width="200" alt="褪色者形象">
 
 
 大家好，我是**褪色者**，我的身份是艾*尔登法环的主人公*。以下是我的自我介绍：
@@ -14,8 +11,8 @@
 
 ### 外貌特征
 
-* 身着艾尔登之王套装
-* 左手持指纹石盾，右手握猎龙大刀
+* 身着流浪骑士套装
+* 左手持盾牌，右手握短剑
 
 ## 我的朋友
 
@@ -53,8 +50,8 @@
 
 ## 我最喜欢的环境管理工具是conda
 
-<img src="&quot;C:\Users\26544\Desktop\1.png&quot;" width="800"/>
+<img src="&quot;C:\Users\26544\Desktop\1.png&quot;" width="800" alt="截图一">
 
 ## 我可以在IDE上使用我建立的虚拟环境
 
-<img src="&quot;C:\Users\26544\Desktop\3.png&quot;" width="800"/>
+<img src="&quot;C:\Users\26544\Desktop\3.png&quot;" width="800" alt="截图二">
