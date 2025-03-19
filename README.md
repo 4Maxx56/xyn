@@ -1,8 +1,5 @@
 # 褪色者的自我介绍
 
-<<<<<<< HEAD
-<image src>"https://img.3dmgame.com/uploads/images/thumbpicfirst/20210611/1623398095_526209.jpg"
-=======
 <img src>"https://img.3dmgame.com/uploads/images/thumbpicfirst/20210611/1623398095_526209.jpg" width="200" alt="褪色者形象">
 
 
@@ -53,8 +50,8 @@
 
 ## 我最喜欢的环境管理工具是conda
 
-<img src="&quot;C:\Users\26544\Desktop\1.png&quot;" width="800"/>
+<img src="&quot;C:\Users\26544\Desktop\1.png&quot;" width="800" alt="截图一">
 
 ## 我可以在IDE上使用我建立的虚拟环境
 
-<img src="&quot;C:\Users\26544\Desktop\3.png&quot;" width="800"/>
+<img src="&quot;C:\Users\26544\Desktop\3.png&quot;" width="800"alt="截图二">
