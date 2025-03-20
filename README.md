@@ -1,8 +1,5 @@
 # 褪色者的自我介绍
 
-<<<<<<< HEAD
-<img src>https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/02/20220223_ax_156_1/152.jpg width="200" alt="褪色者形象">
-=======
 <img src>"https://img.3dmgame.com/uploads/images/thumbpicfirst/20210611/1623398095_526209.jpg" width="200" alt="褪色者形象">
 >>>>>>> 4625a4e55d297088bcabcce6c862351e9c614a47
 
