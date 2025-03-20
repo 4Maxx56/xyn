@@ -50,8 +50,8 @@
 
 ## 我最喜欢的环境管理工具是conda
 
-<img src="https://github.com/4Maxx56/xyn/blob/main/image/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250320112410.png" width="800" alt="截图一">
+<img src="https://github.com/4Maxx56/xyn/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250320112410.png" width="800" alt="截图一">
 
 ## 我可以在IDE上使用我建立的虚拟环境
 
-<img src="https://github.com/4Maxx56/xyn/blob/main/image/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250320112434.png" width="800" alt="截图二">
+<img src="https://github.com/4Maxx56/xyn/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250320112434.png" width="800" alt="截图二">
