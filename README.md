@@ -1,6 +1,6 @@
 # 褪色者的自我介绍
 
-<img src="https://github.com/4Maxx56/xyn/blob/main/image/image/1623398095_526209.jpg" width="200" alt="褪色者形象">
+<img src=https://github.com/4Maxx56/xyn/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250320123631.png width="200" alt="褪色者形象">
 
 
 大家好，我是**褪色者**，我的身份是艾*尔登法环的主人公*。以下是我的自我介绍：
